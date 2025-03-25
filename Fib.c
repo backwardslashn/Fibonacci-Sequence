@@ -19,5 +19,6 @@ int main()
             x = y;
             y = z;
         } while (x < 255);
+        break;
     }
 }
